@@ -2,9 +2,7 @@
 #make sure to read the read me file for instructions
 
 import discord
-from discord.ext import commands
-from discord.ext.commands import Bot
-import asyncio
+
 
 client = commands.Bot(command_prefix='$') #This Is The Prefix, Feel Free To Change It Anytime
 
